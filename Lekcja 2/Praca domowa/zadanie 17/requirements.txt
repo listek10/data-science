@@ -1,0 +1,9 @@
+beautifulsoup4==4.15.0
+matplotlib==3.11.2
+numpy==2.4.6
+pandas==3.0.6
+requests==2.34.2
+scikit-learn==1.9.1
+xgboost==3.2.0
+seaborn  # nie zainstalowany - brak wersji
+tensorflow  # nie zainstalowany - brak wersji
