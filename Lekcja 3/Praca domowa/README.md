@@ -16,6 +16,16 @@ models/          wytrenowane modele (nie są w repozytorium)
 
 1. Pobierz `Titanic-Dataset.csv` (np. z Kaggle) do `data/raw/`.
 2. Zainstaluj zależności: `pip install -r requirements.txt`.
+3. Trening modelu (z katalogu projektu): `python -m src.train`.
+
+## Wyniki
+
+| Model | Accuracy (test) |
+|---|---|
+| Najczęstsza klasa | 0.6145 |
+| Regresja logistyczna | 0.8045 |
+
+Szczegóły: `notebooks/01_eda.ipynb`, `notebooks/02_baseline_model.ipynb`.
 
 ## Git Flow
 
