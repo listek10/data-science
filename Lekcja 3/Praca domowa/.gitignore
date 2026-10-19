@@ -1,0 +1,14 @@
+# Dane
+data/**
+!data/**/
+!data/**/.gitkeep
+
+# Modele
+models/*
+!models/.gitkeep
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
